@@ -24,12 +24,13 @@
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.Extensions.Caching.StackExchangeRedis" Version="8.0.10" />
+    <PackageReference Include="Microsoft.Graph" Version="5.71.0" />
     <PackageReference Include="Microsoft.Identity.Abstractions" Version="7.1.0" />
     <PackageReference Include="Microsoft.Identity.Web" Version="3.3.0" />
     <PackageReference Include="Microsoft.Identity.Web.Diagnostics" Version="3.3.0" />
     <PackageReference Include="Microsoft.Identity.Web.DownstreamApi" Version="3.3.0" />
     <PackageReference Include="Microsoft.Identity.Web.UI" Version="3.3.0" />
-    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="8.1.2" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="8.3.1" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.6" />
     <PackageReference Include="System.Collections.Immutable" Version="8.0.0" />
     <PackageReference Include="System.Core" Version="3.5.21022.801" />
